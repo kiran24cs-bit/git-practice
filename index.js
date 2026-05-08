@@ -1,3 +1,3 @@
 function change(){
-    document.body.style.backgroundColor="green";
+    document.body.style.backgroundColor="purple";
 }
